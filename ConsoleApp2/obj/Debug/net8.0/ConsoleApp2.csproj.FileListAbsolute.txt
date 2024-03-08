@@ -1,0 +1,15 @@
+Z:\APBD_2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+Z:\APBD_2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+Z:\APBD_2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+Z:\APBD_2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+Z:\APBD_2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+Z:\APBD_2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
