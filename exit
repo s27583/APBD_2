@@ -1,0 +1,71 @@
+[33mcommit 7a96623119c371fbd0d5de2bd0c73c8aa90f2c1f[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-max[m[33m)[m
+Author: s27583 <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 16:54:31 2024 +0100
+
+    added feature-max to Program.cs
+
+[33mcommit 4c944828c7138d31d9659078c257538596fb99f1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: s27583 <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 16:35:10 2024 +0100
+
+    modyfikacja pliku test2.txt
+
+[33mcommit aebec6c5624dc84244236f0eac0cbd09ced11def[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 15:05:10 2024 +0100
+
+    added average method
+
+[33mcommit 88a9fc988d71ec38a68ba9a752e9cc7242442e0d[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:51:44 2024 +0100
+
+    Modyfikacja 3
+
+[33mcommit 14482af0aa490711b77f56ca0b715e4c2e5d4f21[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:50:20 2024 +0100
+
+    Modyfikacja 2
+
+[33mcommit 8b4f20a6e2b13b122e8ae32ad3f0dba8c66b8c6d[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:50:01 2024 +0100
+
+    Modyfikacja 1
+
+[33mcommit a7ffcb4d41555f566c23f7253d7e3305d65f428c[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:45:11 2024 +0100
+
+    tested
+
+[33mcommit 085de6decb798b1086f4423bf0122eef1550569e[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:40:11 2024 +0100
+
+    init
+
+[33mcommit 47e9294ebecdbc663cda3498abb531bae0edb77e[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:30:14 2024 +0100
+
+    added test2.txt, modified test.txt
+
+[33mcommit dbc5230a339fca1e659218548f803799f5576f47[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:23:03 2024 +0100
+
+    modified test.txt
+
+[33mcommit 98ba3e4eacc734a97817bb4c0c19a4cfd4ec3b66[m
+Author: Mikołaj Wróblewski <s27583@pjwstk.edu.pl>
+Date:   Fri Mar 8 14:20:41 2024 +0100
+
+    added test.txt
+
+[33mcommit a63da6cff55a9e34fac3d8b7baa35049be217725[m
+Author: s27583 <162711530+s27583@users.noreply.github.com>
+Date:   Fri Mar 8 14:09:53 2024 +0100
+
+    Initial commit
